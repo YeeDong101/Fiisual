@@ -1,2 +1,2 @@
 # Fiisual
-Research work during my internship as a research analyst
+Research work as a research analyst intern
